@@ -12,7 +12,6 @@ export default function Home() {
 
       <main>
         <Header title="Ballard Design Studio" />
-        <h1>Ballard Design Studio</h1>
       </main>
 
       <Footer />
