@@ -3,6 +3,7 @@ import Header from '@components/Header'
 import Footer from '@components/Footer'
 import localFont from 'next/font/local'
 const myFont = localFont({ src: './FKDisplay/FKDisplayTrial-Regular.otf' })
+import { motion } from "framer-motion";
 
 export default function Home() {
   return (
