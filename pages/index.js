@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Ballard Design Studio" />
         <h1>Ballard Design Studio</h1>
       </main>
 
